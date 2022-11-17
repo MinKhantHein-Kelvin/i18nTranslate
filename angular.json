@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngx-translate-i18n"
+    }
+  },
+  "defaultProject": "ngx-translate-i18n",
+  "cli": {
+    "analytics": false
+  }
 }
